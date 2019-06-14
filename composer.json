@@ -1,0 +1,20 @@
+{
+    "name": "premiere-fx/clink-season-1-episode-9-full-tv",
+    "description": "Watch Clink Season 1 Episode 9 Online for Free Putlocker S04E01 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Baskets Season 4 Episode 1 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/isa0hJrOiY",
+            "homepage": "https://t.co/isa0hJrOiY",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
